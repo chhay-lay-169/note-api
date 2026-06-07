@@ -1,11 +1,13 @@
 using Microsoft.AspNetCore.Mvc;
 using NoteApi.Models;
 using NoteApi.Repositories;
+using Microsoft.AspNetCore.Authorization;
 
 namespace NoteApi.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
+[Authorize]
 public class NotesController : ControllerBase
 {
     private readonly INoteRepository _repository;

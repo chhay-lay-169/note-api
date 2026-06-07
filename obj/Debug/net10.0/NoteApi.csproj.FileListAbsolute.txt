@@ -64,3 +64,6 @@
 /Users/chhaylay/techbodia/NoteApi/obj/Debug/net10.0/NoteApi.pdb
 /Users/chhaylay/techbodia/NoteApi/obj/Debug/net10.0/NoteApi.genruntimeconfig.cache
 /Users/chhaylay/techbodia/NoteApi/obj/Debug/net10.0/ref/NoteApi.dll
+/Users/chhaylay/techbodia/NoteApi/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/chhaylay/techbodia/NoteApi/obj/Debug/net10.0/NoteApi.sourcelink.json
+/Users/chhaylay/techbodia/NoteApi/bin/Debug/net10.0/BCrypt-Net-Next.dll
